@@ -185,10 +185,11 @@ footer {
     margin: 0px;
     font-size: 1rem;
     font: bolder;
+
 }
 
 .ti {
-    
+    list-style: none;
     text-align: center;
     font-size: larger;
 
