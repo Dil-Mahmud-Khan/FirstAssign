@@ -201,8 +201,9 @@ footer {
 .lastone {
     box-shadow: 10px 10px 40px gray;
     border-radius: 15px;
-    margin: 25px;
+    margin: 30px;
     padding: 5px;
+    justify-content: center;   
 }
 h3{
     text-align: center;
