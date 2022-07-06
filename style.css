@@ -178,3 +178,41 @@ footer {
     color: rgb(185, 184, 184);
     text-align: center;
 }
+.li {
+    list-style: none;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0px;
+    font-size: 1rem;
+    font: bolder;
+}
+
+.ti {
+    
+    text-align: center;
+    font-size: larger;
+
+}
+.lastone {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+}
+.cc{
+    margin: 25px;
+    background-color: rgb(255, 255, 255);
+    margin: 25px;
+    padding: 7px;
+    border-radius: 7px;
+}
+#cho{
+    width: 90%;
+    border-radius: 10px;
+}
+.cc{
+    box-shadow: 2px 2px 2px gray;
+}
